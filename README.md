@@ -10,14 +10,14 @@ WEEK-02[INSERTION SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BA
 
 WEEK-02[SELECTION SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/selection_sort.c)
 
-WEEK-03[](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/book_bubblesort.c)
+WEEK-03[SORTING BOOK PRICES USING BUBBLE SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/book_bubblesort.c)
 
-WEEK-03[](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/trackingno_selectionsort.c)
+WEEK-03[SORTING TRACKING NUMBERS USING SELECTION SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/trackingno_selectionsort.c)
 
-WEEK-03[](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/productprice_insertionsort.c)
+WEEK-03[SORTING PRODUCT PRICES USING INSERTION SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/productprice_insertionsort.c)
 
-WEEK-03[](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/destination_bubblesort.c)
+WEEK-03[SORTING DESTINATION TIME USING BUBBLE SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/destination_bubblesort.c)
 
-WEEK-03[](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/productid_insertionsort.c)
+WEEK-03[SORTING PRODUCT ID USING INSERTION SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/productid_insertionsort.c)
 
-WEEK-03[](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/priority_selectionsort.c)
+WEEK-03[SORTING PRIORITY NUMBERS USING SELECTION SORT](https://github.com/Bandi-krupa-Bhavani/2203A51825_DAA_BATCH-02/blob/main/priority_selectionsort.c)
